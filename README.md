@@ -1,4 +1,4 @@
-https://github.com/codewithsaidul/codewithsaidul/blob/main/5effa53c-1cfb-4433-ab45-4f72725922d4.jpg
+<img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/5effa53c-1cfb-4433-ab45-4f72725922d4.jpg">
 
 <h3 align="center">I'm a passionate frontend developer from Bangladesh</h3>
 
@@ -32,5 +32,3 @@ https://github.com/codewithsaidul/codewithsaidul/blob/main/5effa53c-1cfb-4433-ab
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&locale=en" alt="codewithsaidul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsaidul&" alt="codewithsaidul" /></p>
-
-
