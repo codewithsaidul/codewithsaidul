@@ -1,12 +1,11 @@
 <img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/github-banner.png">
 
-<h3 align="center">I'm a passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I'm a Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
 <h3 align="left">🥀 Reach Me Out</h3>
 <hr>
-- 🌱 I’m currently learning **JS, React, Node** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithsaidul](https://github.com/codewithsaidul)
 
