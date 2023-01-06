@@ -6,7 +6,7 @@
 
 <h3 align="left">🥀 Reach Me Out</h3>
 <hr>
-- 🌱 I’m currently learning JS, React JS, Node JS 
+- 🌱 I’m currently learning **JS, React JS, Node JS** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithsaidul](https://github.com/codewithsaidul)
 
