@@ -1,4 +1,4 @@
-<img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/5effa53c-1cfb-4433-ab45-4f72725922d4.jpg">
+<img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/github-banner.png">
 
 <h3 align="center">I'm a passionate frontend developer from Bangladesh</h3>
 
