@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
+<h3 align="left">🥀 Reach Me Out</h3>
 - 🌱 I’m currently learning **Rect, Node Js, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithsaidul](https://github.com/codewithsaidul)
@@ -27,8 +28,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsaidul" alt="codewithsaidul" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&locale=en" alt="codewithsaidul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&locale=radical" alt="codewithsaidul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsaidul&" alt="codewithsaidul" /></p>
-
