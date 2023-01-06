@@ -32,7 +32,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsaidul" alt="codewithsaidul" /></a> </p>
 
 
-![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&theme=dark)
+![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&theme=merko)
 ![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=codewithsaidul)  
