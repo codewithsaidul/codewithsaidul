@@ -17,8 +17,11 @@
 <p align="left">
 <a href="https://twitter.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsaidul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codewithsaidul" height="30" width="40" /></a>
 <a href="https://fb.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithsaidul" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a href="https://dribbble.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codewithsaidul" height="30" width="40" /></a>
 </p>
 
 
@@ -29,8 +32,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsaidul" alt="codewithsaidul" /></a> </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/codewithsaidul)  
+![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true&theme=dracula)
+![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=codewithsaidul)  
