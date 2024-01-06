@@ -41,7 +41,7 @@
 
 ![SAIDUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsaidul&show_icons=true)  
 
-![SAIDUL's Github metrics](https://metrics.lecoq.io/codewithsaidul)  
+
 
 ![SAIDUL's GitHub streak stats](https://streak-stats.demolab.com/?user=codewithsaidul)  
 
