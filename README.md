@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **codewithsaidul@gmail.com**
 
+<div align="right" style="width:"100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/F5kKZRsTT4CgPTsLIw/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsaidul" height="30" width="40" /></a>
