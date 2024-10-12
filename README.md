@@ -1,4 +1,4 @@
-<img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/github-banner.png">
+<img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/Group%2096.png">
 
 <h1 align="center">Hi 👋, I'm Saidu Islam Rana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
