@@ -60,13 +60,13 @@
 
 ## :snowman: Current overview
 
-###### ⚒️ I'm Working - In Sylhet Polytechnic Institute
+### ⚒️ I'm Working - In Sylhet Polytechnic Institute
 
-###### 🌱 I’m Exploring - ReactJS, ThreeJS, NodeJS, ExpressJS, MongoDB
+### 🌱 I’m Exploring - ReactJS, ThreeJS, NodeJS, ExpressJS, MongoDB
 
-###### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
+### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
 
-###### 🤔 I'm Trying - Exploring Code, Learning, And Building Amazing things
+### 🤔 I'm Trying - Exploring Code, Learning, And Building Amazing things
 
-###### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
+### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
 
