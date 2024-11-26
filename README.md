@@ -1,6 +1,8 @@
-<a align="center" href="https://facebook.com/codewithsaidul1" target="_blank">
+<div align="center">
+  <a align="center" href="https://facebook.com/codewithsaidul1" target="_blank">
 <img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/banner.png">
 </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Saidul Islam Rana</h1>
 <p align="center">A passionate frontend developer with a love for creating interactive and dynamic web experiences.</p>
