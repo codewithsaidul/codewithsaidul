@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
-<!-- &stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" -->
+
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -19,19 +19,19 @@
 
 
 ## :mailbox_with_mail: Reach Me Out
-<p align="center">
+<div align="center">
 
-<a href="https://facbook.com/codewithsaidul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithsaidul1" height="30" width="40" /></a>
+<a href="https://facbook.com/codewithsaidul1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithsaidul1" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codewithsaidul" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithsaidul" height="30" width="40" /></a>
 
-<a href="https://instagram.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a href="https://instagram.com/codewithsaidul" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaidul" height="30" width="40" /></a>
 
-<a href="https://twitter.com/codewithsaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsaidul" height="30" width="40" /></a>
+<a  href="https://twitter.com/codewithsaidul" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsaidul" height="30" width="40" /></a>
 
-</p>
+</div>
 
-<br>
+<br></br>
 
 ## :computer: Technologies that I know
 
@@ -60,16 +60,13 @@
 
 ## :snowman: Current overview
 
-### ⚒️ I'm Working - In Sylhet Polytechnic Institute
+###### ⚒️ I'm Working - In Sylhet Polytechnic Institute
 
-### 🌱 I’m Exploring - React JS, Three JS, Node JS, Express JS, MongoDB
+###### 🌱 I’m Exploring - ReactJS, ThreeJS, NodeJS, ExpressJS, MongoDB
 
-### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
+###### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
 
-### 🤔 I'm Trying - Exploring Code, Learning, And Building Amazing things
+###### 🤔 I'm Trying - Exploring Code, Learning, And Building Amazing things
 
-### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
+###### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
 
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
