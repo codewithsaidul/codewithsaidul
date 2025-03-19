@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Saidul Islam Rana</h1>
-<p align="center">A passionate frontend developer with a love for creating interactive and dynamic web experiences.</p>
+<p align="center">A passionate front-end developer who loves creating interactive and dynamic web experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
