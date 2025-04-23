@@ -1,5 +1,5 @@
 <div align="center">
-  <a align="center" href="https://facebook.com/codewithsaidul1" target="_blank">
+  <a align="center" href="https://facebook.com/codewithsaidul" target="_blank">
 <img src="https://github.com/codewithsaidul/codewithsaidul/blob/main/banner.png">
 </a>
 </div>
@@ -23,7 +23,7 @@
 ## :mailbox_with_mail: Reach Me Out
 <div align="center">
 
-<a href="https://facbook.com/codewithsaidul1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithsaidul1" height="30" width="40" /></a>
+<a href="https://facbook.com/codewithsaidul" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithsaidul1" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/codewithsaidul" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithsaidul" height="30" width="40" /></a>
 
