@@ -64,7 +64,7 @@
 
 ### ⚒️ I'm Working - In Sylhet Polytechnic Institute
 
-### 🌱 I’m Exploring - ReactJS, Redux, NodeJS, ExpressJS, MongoDB
+### 🌱 I’m Exploring - Redux, TypeScript, Prisma, AWS, DOCKER
 
 ### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
 
