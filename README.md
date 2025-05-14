@@ -15,6 +15,7 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codewithsaidul&theme=nightowl&hide_border=true&border_radius=0&stroke=0D1117&fire=75C2F6&ring=75C2F6&currStreakNum=75C2F6&currStreakLabel=75C2F6" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=codewithsaidul&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </div>
 
 <br>
