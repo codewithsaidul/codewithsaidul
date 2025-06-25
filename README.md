@@ -71,3 +71,8 @@
 
 ### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-codewithsaidul&layout=compact)
+
+
