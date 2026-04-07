@@ -9,7 +9,7 @@
   <strong>Junior Full-Stack Developer | MERN Stack | DevOps & Cloud Enthusiast</strong>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
 
 <p align="center">
