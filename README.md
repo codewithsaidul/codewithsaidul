@@ -23,13 +23,24 @@
 
 
 ## About 
-Building production-ready web applications and continuously improving as a full-stack developer. Around 6 months of hands-on experience working with the MERN stack, focusing on Next.js and TypeScript to create clean, scalable, and maintainable systems.
+Building production-ready web apps as a Junior Full-Stack Developer (~6 months experience) with a focus on MERN stack (Next.js, React, Node.js, MongoDB, TypeScript).  
 
-Full-stack by practice — handling everything from frontend interfaces to backend APIs and real-world deployment. Experienced in running applications on VPS servers using Linux, Nginx, and PM2, with an understanding of performance, security, and reliability.
+Full-stack by practice — from frontend interfaces to backend APIs and deployment on VPS (Linux/Nginx/PM2). Currently learning PostgreSQL, Prisma, and Docker to strengthen backend and deployment skills.  
 
-Previously worked as a MERN Stack Developer, contributing to real-world projects and managing production environments. Also experienced in explaining technical concepts clearly from my time as a Guest Lecturer.
+Actively looking for opportunities to contribute, grow, and deliver real-world solutions.
 
-Currently exploring backend and DevOps tools like PostgreSQL, Prisma, and Docker to strengthen system design and deployment skills. Actively looking for opportunities to contribute, learn, and grow as a software developer.
+
+---
+
+## At a Glance
+
+- ⭐ **Highlights:** `Junior Full-Stack Developer` · `MERN Stack` (Next.js/React/Node/Express/MongoDB) · `DevOps & Cloud Enthusiast` (Linux/Nginx/PM2) · `GenAI & Automation Learner`  
+- 🚀 **Impact:** Built & deployed production-ready web apps · Managed VPS servers & APIs · Experience with JWT & OAuth authentication · Optimized performance for real-world apps  
+- 🎯 **Current Focus:** Learning PostgreSQL, Prisma, Docker · Improving backend & deployment skills · Exploring clean architecture, scalable APIs, and automation pipelines  
+- 🌱 **Goal:** Contribute to real-world projects, grow as a full-stack developer, and deliver production-ready solutions
+- 🎐 **Fun Fact:** Love turning creative ideas into interactive web experiences with clean, maintainable code
+
+---
 
 
 ## Toolbox
@@ -54,24 +65,10 @@ Currently exploring backend and DevOps tools like PostgreSQL, Prisma, and Docker
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github,git" alt="cloud stack" /></p>
 
-** Tooling**
+**Tooling**
 
 - Postman
 - Design/Collab: Figma, VS Code
-<br>
-
-## :snowman: Current overview
-
-### ⚒️ I'm Working - In Sylhet Polytechnic Institute
-
-### 🌱 I’m Exploring - Redux, TypeScript, Prisma, AWS, DOCKER
-
-### 👯 I'm Looking - Web Development Project That Combines Creativity, Innovation, And Technical Challenge
-
-### 🤔 I'm Trying - Exploring Code, Learning, And Building Amazing Things
-
-### 🎐 Fun Fact - I Love Building Interactive Web Experiences And Adding Creative Animations To Bring Them To Life!
-
 
 
 
@@ -83,18 +80,13 @@ Currently exploring backend and DevOps tools like PostgreSQL, Prisma, and Docker
 
 <p align="center">
   <a href="https://github.com/codewithsaidul" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithashim&theme=default" alt="Profile Summary" width="100%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithsaidul&theme=default" alt="Profile Summary" width="100%">
   </a>
 </p>
 
 ---
 
 <p align="center">Develop by <a href="https://codewithsaidul.vercel.app" target="_blank" rel="noopener noreferrer">Saidul Islam Rana</a></p>
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsaidul&layout=compact)
-
 
 
 
