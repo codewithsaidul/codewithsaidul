@@ -4,13 +4,16 @@
   </picture>
 </p>
 
-<h1 align="center">I'm Saidul Islam Rana</h1>
+---
+
+<h1 align="center">Saidul Islam Rana</h1>
 <p align="center">
   <strong>Junior Full-Stack Developer | MERN Stack | DevOps & Cloud Enthusiast</strong>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
+---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewithsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsaidul" /> </p>
 
 <p align="center">
   <a href="https://codewithsaidul.vercel.app" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-view-667eea?style=for-the-badge&logo=globe&logoColor=white"></a>
@@ -21,6 +24,7 @@
   <a href="mailto:codewithsaidul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+---
 
 ## About 
 Building production-ready web apps as a Junior Full-Stack Developer (~6 months experience) with a focus on MERN stack (Next.js, React, Node.js, MongoDB, TypeScript).  
@@ -44,33 +48,44 @@ Actively looking for opportunities to contribute, grow, and deliver real-world s
 
 
 ## Toolbox
+---
 
 **Core**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=ts,js,c" alt="core stack" /></p>
 
+---
+
 **Frontend**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,scss,tailwind,materialui" alt="frontend stack" /></p>
+
+---
 
 **Backend & APIs**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="backend stack" /></p>
 
+---
+
 **Data & Search**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="data stack" /></p>
 
+---
+
 **Cloud & DevOps**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github,git" alt="cloud stack" /></p>
+
+---
 
 **Tooling**
 
 - Postman
 - Design/Collab: Figma, VS Code
 
-
+---
 
 ## GitHub Activity
 
