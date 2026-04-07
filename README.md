@@ -54,31 +54,31 @@ Actively looking for opportunities to contribute, grow, and deliver real-world s
 
 <p align="left"><img src="https://skillicons.dev/icons?i=ts,js,c" alt="core stack" /></p>
 
----
+-
 
 **Frontend**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,scss,tailwind,materialui" alt="frontend stack" /></p>
 
----
+-
 
 **Backend & APIs**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="backend stack" /></p>
 
----
+-
 
 **Data & Search**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="data stack" /></p>
 
----
+-
 
 **Cloud & DevOps**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=docker,linux,github,git" alt="cloud stack" /></p>
 
----
+-
 
 **Tooling**
 
